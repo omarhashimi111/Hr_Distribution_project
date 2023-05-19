@@ -1,0 +1,4 @@
+age_group,COUNT(*)
+"Middle Age: 25-40",8541
+"OLD: More than 40",10820
+"Young 18-25",2853
